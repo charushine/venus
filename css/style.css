@@ -909,3 +909,43 @@ border: 1px solid #000;
   border-bottom-color: #0bf;  /* half azure */
   border-right-color: #0bf;
 }
+.bar1{
+  position: absolute;
+  top: 0; left: 0;
+  width: 90px; height: 90px; /* full circle! */
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 5px solid #eee;     /* half gray, */
+  border-bottom-color: #E02758;  /* half azure */
+  border-right-color: #E02758;
+}
+.bar2{
+  position: absolute;
+  top: 0; left: 0;
+  width: 90px; height: 90px; /* full circle! */
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 5px solid #eee;     /* half gray, */
+  border-bottom-color: #ECAD30;  /* half azure */
+  border-right-color: #ECAD30;
+}
+.bar3{
+  position: absolute;
+  top: 0; left: 0;
+  width: 90px; height: 90px; /* full circle! */
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 5px solid #eee;     /* half gray, */
+  border-bottom-color: #37C5EF;  /* half azure */
+  border-right-color: #37C5EF;
+}
+.bar4{
+  position: absolute;
+  top: 0; left: 0;
+  width: 90px; height: 90px; /* full circle! */
+  border-radius: 50%;
+  box-sizing: border-box;
+  border: 5px solid #eee;     /* half gray, */
+  border-bottom-color: #47366A;  /* half azure */
+  border-right-color: #47366A;
+}
